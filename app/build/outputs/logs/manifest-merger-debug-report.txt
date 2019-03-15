@@ -1,0 +1,259 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\crush\Desktop\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:17:1-73:12
+INJECTED from C:\Users\crush\Desktop\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:17:1-73:12
+INJECTED from C:\Users\crush\Desktop\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:17:1-73:12
+INJECTED from C:\Users\crush\Desktop\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:17:1-73:12
+MERGED from [com.android.databinding:adapters:3.3.2] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\adapters-3.3.2.aar\f578acc3f1a4e3814adc87ec467ea576\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.databinding:library:3.3.2] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\library-3.3.2.aar\f706fe2d535649eccf6452d0f5919fea\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:preference-v7:28.0.0] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\preference-v7-28.0.0.aar\11cedabd8053328d27ac206e776f8703\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\4f3599fafb0263bcf414e19831547122\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\86902ec19c1bc0078c81b765f785f590\AndroidManifest.xml:17:1-22:12
+MERGED from [com.firebase:firebase-jobdispatcher:0.8.6] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.8.6.aar\192b4192b679c8e7c549b9e8dca6c94c\AndroidManifest.xml:17:1-48:12
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\54860ce1cf90bb37f66d91f49058c193\AndroidManifest.xml:17:1-30:12
+MERGED from [android.arch.persistence.room:runtime:1.1.1] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\79aeedd90d3770f6202cd79ef49de653\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\4d956bac3ebfb7ad855825b83242a48d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\90631af75d70060a5ed5a052f89fd136\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\80870324ab4bbbfa76907ca64ac5de5c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\f674da81c99390ddbd07b29a9560af2b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\bd4ba7d80e8be85520acfee14a704e98\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\77d2dd438490208ac09bc328f66dc5f7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\cc3e1670d6b1d036fe4336c0129be488\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\3ede6706828177777cfd9c120654b013\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\b417225aaf129a70ef17c579221feed8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\a3b95d5c37235d16f288dafa650d6521\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\f5a90cab0cd582561ce3fff5c0665b65\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\89dbade935d6027ce3cb855221d07216\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\112700df79042715c1d9203b34982e9a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\e19d0d13c2e8bf63046f377d34e8270b\AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\7e765aa221e76d2232cce1197958a85b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\edb8a8605506979bf151eca3b9d6002d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta1] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0-beta1.aar\24f81baa125a99a2cb7c96b81a7359c8\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\64b8911a9923b9e01f3f1d329a2818d9\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\c2e2034bc8e5b3eaca2caa7bc8746b3f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\7a684dc4afbef37df73fe442136823a7\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\7ac914c057603074e92db297a2cf0d34\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\8c55de724b8654546d7a4e5510699695\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence:db-framework:1.1.1] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\db-framework-1.1.1.aar\aff72b88cccbc8e21a97ab589fd47b3b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence:db:1.1.1] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\db-1.1.1.aar\f5f7cfeaa744fdd0e685313305e5ab37\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\49a1d18547760e3603dd3b3454c0d09b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\233a37cc167f51a521b03996f3228bdf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\27147bf3e6024f387d41c074814906c5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\2e38661b7b922adde5c786802670a109\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\crush\Desktop\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:17:1-73:12
+INJECTED from C:\Users\crush\Desktop\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:17:1-73:12
+INJECTED from C:\Users\crush\Desktop\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:17:1-73:12
+	package
+		ADDED from C:\Users\crush\Desktop\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:20:5-43
+		INJECTED from C:\Users\crush\Desktop\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\crush\Desktop\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\crush\Desktop\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\crush\Desktop\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:17:1-73:12
+		INJECTED from C:\Users\crush\Desktop\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\crush\Desktop\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:19:5-51
+	android:versionCode
+		INJECTED from C:\Users\crush\Desktop\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\crush\Desktop\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:17:1-73:12
+		INJECTED from C:\Users\crush\Desktop\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\crush\Desktop\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:18:5-63
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\crush\Desktop\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:23:5-66
+	android:name
+		ADDED from C:\Users\crush\Desktop\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:23:22-64
+application
+ADDED from C:\Users\crush\Desktop\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:25:5-72:19
+MERGED from [com.firebase:firebase-jobdispatcher:0.8.6] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.8.6.aar\192b4192b679c8e7c549b9e8dca6c94c\AndroidManifest.xml:32:5-46:19
+MERGED from [com.firebase:firebase-jobdispatcher:0.8.6] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.8.6.aar\192b4192b679c8e7c549b9e8dca6c94c\AndroidManifest.xml:32:5-46:19
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\54860ce1cf90bb37f66d91f49058c193\AndroidManifest.xml:22:5-28:19
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\54860ce1cf90bb37f66d91f49058c193\AndroidManifest.xml:22:5-28:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\e19d0d13c2e8bf63046f377d34e8270b\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\e19d0d13c2e8bf63046f377d34e8270b\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta1] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0-beta1.aar\24f81baa125a99a2cb7c96b81a7359c8\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta1] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0-beta1.aar\24f81baa125a99a2cb7c96b81a7359c8\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\64b8911a9923b9e01f3f1d329a2818d9\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\64b8911a9923b9e01f3f1d329a2818d9\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\e19d0d13c2e8bf63046f377d34e8270b\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\crush\Desktop\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:29:9-35
+	android:label
+		ADDED from C:\Users\crush\Desktop\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:28:9-41
+	tools:ignore
+		ADDED from C:\Users\crush\Desktop\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:31:9-48
+	android:icon
+		ADDED from C:\Users\crush\Desktop\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:27:9-43
+	android:allowBackup
+		ADDED from C:\Users\crush\Desktop\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:26:9-35
+	android:theme
+		ADDED from C:\Users\crush\Desktop\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:30:9-40
+activity#com.example.android.sunshine.ui.list.MainActivity
+ADDED from C:\Users\crush\Desktop\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:34:9-43:20
+	android:label
+		ADDED from C:\Users\crush\Desktop\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:36:13-45
+	android:launchMode
+		ADDED from C:\Users\crush\Desktop\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:37:13-43
+	android:theme
+		ADDED from C:\Users\crush\Desktop\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:38:13-53
+	android:name
+		ADDED from C:\Users\crush\Desktop\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:35:13-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\crush\Desktop\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:39:13-42:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\crush\Desktop\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:40:17-68
+	android:name
+		ADDED from C:\Users\crush\Desktop\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:40:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\crush\Desktop\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:41:17-76
+	android:name
+		ADDED from C:\Users\crush\Desktop\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:41:27-74
+activity#com.example.android.sunshine.ui.detail.DetailActivity
+ADDED from C:\Users\crush\Desktop\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:46:9-55:20
+	android:parentActivityName
+		ADDED from C:\Users\crush\Desktop\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:49:13-63
+	android:label
+		ADDED from C:\Users\crush\Desktop\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:48:13-58
+	android:theme
+		ADDED from C:\Users\crush\Desktop\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:50:13-44
+	android:name
+		ADDED from C:\Users\crush\Desktop\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:47:13-53
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\crush\Desktop\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:51:13-53:56
+	android:value
+		ADDED from C:\Users\crush\Desktop\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:53:17-54
+	android:name
+		ADDED from C:\Users\crush\Desktop\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:52:17-63
+service#com.example.android.sunshine.data.network.SunshineSyncIntentService
+ADDED from C:\Users\crush\Desktop\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:59:9-61:40
+	android:exported
+		ADDED from C:\Users\crush\Desktop\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:61:13-37
+	android:name
+		ADDED from C:\Users\crush\Desktop\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:60:13-67
+service#com.example.android.sunshine.data.network.SunshineFirebaseJobService
+ADDED from C:\Users\crush\Desktop\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:64:9-70:19
+	android:exported
+		ADDED from C:\Users\crush\Desktop\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:66:13-37
+	android:name
+		ADDED from C:\Users\crush\Desktop\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:65:13-68
+intent-filter#action:name:com.firebase.jobdispatcher.ACTION_EXECUTE
+ADDED from C:\Users\crush\Desktop\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:67:13-69:29
+action#com.firebase.jobdispatcher.ACTION_EXECUTE
+ADDED from C:\Users\crush\Desktop\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:68:17-83
+	android:name
+		ADDED from C:\Users\crush\Desktop\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml:68:25-81
+uses-sdk
+INJECTED from C:\Users\crush\Desktop\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\crush\Desktop\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\crush\Desktop\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml
+MERGED from [com.android.databinding:adapters:3.3.2] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\adapters-3.3.2.aar\f578acc3f1a4e3814adc87ec467ea576\AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:adapters:3.3.2] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\adapters-3.3.2.aar\f578acc3f1a4e3814adc87ec467ea576\AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:library:3.3.2] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\library-3.3.2.aar\f706fe2d535649eccf6452d0f5919fea\AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:library:3.3.2] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\library-3.3.2.aar\f706fe2d535649eccf6452d0f5919fea\AndroidManifest.xml:22:5-44
+MERGED from [com.android.support:preference-v7:28.0.0] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\preference-v7-28.0.0.aar\11cedabd8053328d27ac206e776f8703\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:preference-v7:28.0.0] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\preference-v7-28.0.0.aar\11cedabd8053328d27ac206e776f8703\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\4f3599fafb0263bcf414e19831547122\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\4f3599fafb0263bcf414e19831547122\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\86902ec19c1bc0078c81b765f785f590\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\86902ec19c1bc0078c81b765f785f590\AndroidManifest.xml:20:5-44
+MERGED from [com.firebase:firebase-jobdispatcher:0.8.6] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.8.6.aar\192b4192b679c8e7c549b9e8dca6c94c\AndroidManifest.xml:22:5-24:41
+MERGED from [com.firebase:firebase-jobdispatcher:0.8.6] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.8.6.aar\192b4192b679c8e7c549b9e8dca6c94c\AndroidManifest.xml:22:5-24:41
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\54860ce1cf90bb37f66d91f49058c193\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\54860ce1cf90bb37f66d91f49058c193\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence.room:runtime:1.1.1] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\79aeedd90d3770f6202cd79ef49de653\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence.room:runtime:1.1.1] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\79aeedd90d3770f6202cd79ef49de653\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\4d956bac3ebfb7ad855825b83242a48d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\4d956bac3ebfb7ad855825b83242a48d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\90631af75d70060a5ed5a052f89fd136\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\90631af75d70060a5ed5a052f89fd136\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\80870324ab4bbbfa76907ca64ac5de5c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\80870324ab4bbbfa76907ca64ac5de5c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\f674da81c99390ddbd07b29a9560af2b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\f674da81c99390ddbd07b29a9560af2b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\bd4ba7d80e8be85520acfee14a704e98\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\bd4ba7d80e8be85520acfee14a704e98\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\77d2dd438490208ac09bc328f66dc5f7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\77d2dd438490208ac09bc328f66dc5f7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\cc3e1670d6b1d036fe4336c0129be488\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\cc3e1670d6b1d036fe4336c0129be488\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\3ede6706828177777cfd9c120654b013\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\3ede6706828177777cfd9c120654b013\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\b417225aaf129a70ef17c579221feed8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\b417225aaf129a70ef17c579221feed8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\a3b95d5c37235d16f288dafa650d6521\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\a3b95d5c37235d16f288dafa650d6521\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\f5a90cab0cd582561ce3fff5c0665b65\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\f5a90cab0cd582561ce3fff5c0665b65\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\89dbade935d6027ce3cb855221d07216\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\89dbade935d6027ce3cb855221d07216\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\112700df79042715c1d9203b34982e9a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\112700df79042715c1d9203b34982e9a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\e19d0d13c2e8bf63046f377d34e8270b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\e19d0d13c2e8bf63046f377d34e8270b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\7e765aa221e76d2232cce1197958a85b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\7e765aa221e76d2232cce1197958a85b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\edb8a8605506979bf151eca3b9d6002d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\edb8a8605506979bf151eca3b9d6002d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta1] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0-beta1.aar\24f81baa125a99a2cb7c96b81a7359c8\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta1] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0-beta1.aar\24f81baa125a99a2cb7c96b81a7359c8\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\64b8911a9923b9e01f3f1d329a2818d9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\64b8911a9923b9e01f3f1d329a2818d9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\c2e2034bc8e5b3eaca2caa7bc8746b3f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\c2e2034bc8e5b3eaca2caa7bc8746b3f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\7a684dc4afbef37df73fe442136823a7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\7a684dc4afbef37df73fe442136823a7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\7ac914c057603074e92db297a2cf0d34\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\7ac914c057603074e92db297a2cf0d34\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\8c55de724b8654546d7a4e5510699695\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\8c55de724b8654546d7a4e5510699695\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db-framework:1.1.1] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\db-framework-1.1.1.aar\aff72b88cccbc8e21a97ab589fd47b3b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db-framework:1.1.1] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\db-framework-1.1.1.aar\aff72b88cccbc8e21a97ab589fd47b3b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db:1.1.1] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\db-1.1.1.aar\f5f7cfeaa744fdd0e685313305e5ab37\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db:1.1.1] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\db-1.1.1.aar\f5f7cfeaa744fdd0e685313305e5ab37\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\49a1d18547760e3603dd3b3454c0d09b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\49a1d18547760e3603dd3b3454c0d09b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\233a37cc167f51a521b03996f3228bdf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\233a37cc167f51a521b03996f3228bdf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\27147bf3e6024f387d41c074814906c5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\27147bf3e6024f387d41c074814906c5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\2e38661b7b922adde5c786802670a109\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\2e38661b7b922adde5c786802670a109\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\crush\Desktop\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\crush\Desktop\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\crush\Desktop\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\crush\Desktop\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\crush\Desktop\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\crush\Desktop\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\crush\Desktop\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\crush\Desktop\architectureComponentsSunshineStartingCode\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.firebase:firebase-jobdispatcher:0.8.6] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.8.6.aar\192b4192b679c8e7c549b9e8dca6c94c\AndroidManifest.xml:30:5-79
+	android:name
+		ADDED from [com.firebase:firebase-jobdispatcher:0.8.6] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.8.6.aar\192b4192b679c8e7c549b9e8dca6c94c\AndroidManifest.xml:30:22-76
+service#com.firebase.jobdispatcher.GooglePlayReceiver
+ADDED from [com.firebase:firebase-jobdispatcher:0.8.6] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.8.6.aar\192b4192b679c8e7c549b9e8dca6c94c\AndroidManifest.xml:38:9-45:19
+	android:exported
+		ADDED from [com.firebase:firebase-jobdispatcher:0.8.6] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.8.6.aar\192b4192b679c8e7c549b9e8dca6c94c\AndroidManifest.xml:40:13-36
+	android:permission
+		ADDED from [com.firebase:firebase-jobdispatcher:0.8.6] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.8.6.aar\192b4192b679c8e7c549b9e8dca6c94c\AndroidManifest.xml:41:13-93
+	android:name
+		ADDED from [com.firebase:firebase-jobdispatcher:0.8.6] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.8.6.aar\192b4192b679c8e7c549b9e8dca6c94c\AndroidManifest.xml:39:13-73
+intent-filter#action:name:com.google.android.gms.gcm.ACTION_TASK_READY
+ADDED from [com.firebase:firebase-jobdispatcher:0.8.6] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.8.6.aar\192b4192b679c8e7c549b9e8dca6c94c\AndroidManifest.xml:42:13-44:29
+action#com.google.android.gms.gcm.ACTION_TASK_READY
+ADDED from [com.firebase:firebase-jobdispatcher:0.8.6] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.8.6.aar\192b4192b679c8e7c549b9e8dca6c94c\AndroidManifest.xml:43:17-87
+	android:name
+		ADDED from [com.firebase:firebase-jobdispatcher:0.8.6] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\firebase-jobdispatcher-0.8.6.aar\192b4192b679c8e7c549b9e8dca6c94c\AndroidManifest.xml:43:25-84
+provider#android.arch.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\54860ce1cf90bb37f66d91f49058c193\AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\54860ce1cf90bb37f66d91f49058c193\AndroidManifest.xml:25:13-68
+	android:multiprocess
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\54860ce1cf90bb37f66d91f49058c193\AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\54860ce1cf90bb37f66d91f49058c193\AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] C:\Users\crush\.gradle\caches\transforms-1\files-1.1\extensions-1.1.1.aar\54860ce1cf90bb37f66d91f49058c193\AndroidManifest.xml:24:13-83
